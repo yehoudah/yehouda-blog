@@ -1,7 +1,7 @@
 ---
 title: 'Le don, la matière et le réel : une réflexion philosophique sur la singularisation des objets et la réalité'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+description: 'Une réflexion philosophique sur la nature du don artistique et la possibilité d’une transformation ontologique de la matière. À partir de la tension entre matérialisme et transcendance, cet article explore comment un objet peut être arraché à l’anonymat par la consécration et la destination, sans pour autant subir de modification physique. Il interroge la notion de réel à travers ses différents niveaux — physique, ontologique et symbolique — et propose de penser le don comme un acte de singularisation inscrit dans un monde de relations plutôt que comme une transformation absolue de l’être.'
+pubDate: 'Apr 04 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
