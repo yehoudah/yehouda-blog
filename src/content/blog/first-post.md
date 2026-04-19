@@ -21,10 +21,10 @@ Séparer un objet de la matière brute et le destiner à un usage particulier co
 
 Ce processus peut être décrit à travers plusieurs philosophes :
 
-Heidegger : l’objet banal devient œuvre, et son mode d’existence s’inscrit dans un monde nouveau.
-Marion : le phénomène se donne et excède le simple objet matériel.
-Levinas : le passage de l’anonymat à une relation avec autrui introduit la responsabilité et la signification.
-Agamben et la consécration : un objet retiré de l’usage ordinaire acquiert un statut nouveau, non réductible à sa matière.
+- Heidegger : l’objet banal devient œuvre, et son mode d’existence s’inscrit dans un monde nouveau.
+- Marion : le phénomène se donne et excède le simple objet matériel.
+- Levinas : le passage de l’anonymat à une relation avec autrui introduit la responsabilité et la signification.
+- Agamben et la consécration : un objet retiré de l’usage ordinaire acquiert un statut nouveau, non réductible à sa matière.
 
 Ainsi, le don ne consiste pas seulement en un transfert ou un échange, mais en un acte de sortie de l’anonymat et de création de valeur, de destination et de singularité. L’objet passe de l’état indifférencié à un état signifiant dans un monde humain.
 
